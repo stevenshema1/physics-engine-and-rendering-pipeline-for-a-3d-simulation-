@@ -1,0 +1,5 @@
+{
+  "name": "NovaForge Physics & Rendering Engine",
+  "description": "A high-performance technical simulation environment featuring a custom physics engine with Web Worker multithreading and a PBR rendering pipeline simulation.",
+  "requestFramePermissions": []
+}
